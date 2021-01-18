@@ -1,0 +1,53 @@
+body {
+  background-color: rgba(252, 88, 97);
+}
+
+img#baby{
+  display: block;
+  position: absolute;
+  left: 40%;
+}
+
+img#flesje:hover, img#speelgoed:hover{
+  cursor: pointer;
+}
+
+img#flesje{
+  display: block;
+  position: absolute;
+  left: 30%;
+  top: 40%;
+}
+
+img#speelgoed{
+  display: block;
+  position: absolute;
+  left: 60%;
+  top: 47%;
+}
+
+h1{
+  display: block;
+  position: absolute;
+  left: 10%;
+  top: 60%;
+}
+
+h2 {
+  display: block;
+  position: absolute;
+  left: 35%;
+  top: 70%;
+}
+
+h3 {
+  display: block;
+  position: absolute;
+  width: 25%;
+  left: 2.5%;
+  top: 0;
+}
+
+audio{
+  display: none;
+}
